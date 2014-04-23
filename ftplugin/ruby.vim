@@ -1,5 +1,5 @@
-set expandtab
-set tabstop=8
-set shiftwidth=2
-set softtabstop=2
-set nowrap
+setlocal expandtab
+setlocal tabstop=8
+setlocal shiftwidth=2
+setlocal softtabstop=2
+setlocal nowrap
