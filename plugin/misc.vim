@@ -1,8 +1,8 @@
 " some misc config
 
 " insert blank lines from normal mode
-map <S-Enter><S-Enter> m`O<Esc>``
-map <CR><CR> m`o<Esc>``
+map <S-Enter><CR> m`O<Esc>``
+map <S-Enter><S-Enter> m`o<Esc>``
 
 set shell=/bin/bash
 
